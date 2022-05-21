@@ -1,6 +1,7 @@
 # desafio-preguntas
 Desarrollo para desafío de preguntas
 Hola, soy Antonio Abreu, documentando el desarrollo de los programas de "Juego de Preguntas"
+Fue desarrollado en Windev, lenguaje de programación 5GL, el cual genera en varias plataformas
 El sistema consta de varios programas que detallo:
 Alta y mantenimiento de preguntas con sus respuestas y la respuesta correcta marcada
 Pantalla principal, que permite acceso al usuario
