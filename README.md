@@ -13,3 +13,4 @@ BDHISTORICO
 Al instalarse el sistema debe previamente ingresar las preguntas y respuestas
 Se pueden poner N preguntas clasificando su categoría o nivel en el juego
 
+
